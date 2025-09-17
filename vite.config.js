@@ -12,6 +12,7 @@ function csvToJson() {
     buildStart() {
       return new Promise((resolve, reject) => {
         const results = []
+        let id = 1;
 
         const typeMap = {
           prA: 'planen',
@@ -32,12 +33,15 @@ function csvToJson() {
             const mappedType = typeMap[typeKey] ?? typeKey // Fallback falls kein Mapping existiert
 
             results.push({
+              id: id,
               name: name.trim() ?? '',
               url: url.trim() ?? '',
               description: description.trim() ?? '',
               type: mappedType,
               technology: technology.trim() ?? ''
             })
+
+            id++;
           })
           .on('end', () => {
             fs.writeFileSync('src/data/fidicare.json', JSON.stringify(results, null, 2))
