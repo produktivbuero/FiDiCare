@@ -23,6 +23,14 @@ Die Anwendung basiert auf [Vue 3](https://vuejs.org/) und [Buefy](https://v3.bue
 npm install
 ```
 
+### Daten
+
+Die Daten der Anwendung liegen in ``src/data/fidicare.csv``.
+
+Die CSV-Datei muss UTF-8 kodiert sein und in der ersten Zeile eine (beliebige) Spaltenbezeichnun tragen. Die erste Zeile wird beim Import ignoriert. Ebenso sind die Spalten mit Semikolons (;) getrennt und nicht mit Anführungszeichen umschlossen. Dies enstspricht einem CSV-Export aus Excel.
+
+Zur Entwicklung und Veröffentlichung (siehe unten) wird die CSV importiert und als JSON bereit gestellt.
+
 ### Entwicklung
 
 Kompilieren und automatisches Nachladen von Änderungen im lokalen Browser.
@@ -30,9 +38,6 @@ Kompilieren und automatisches Nachladen von Änderungen im lokalen Browser.
 ```sh
 npm run dev
 ```
-
-TODO: R-Skript zum Update der Daten unter ``src/data/fidicare.json``.
-
 
 ### Veröffentlichung
 
