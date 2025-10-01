@@ -17,7 +17,7 @@ function csvToJson() {
         const typeMap = {
           prA: 'planen',
           IA: 'pflegen',
-          wA: 'wisse'
+          wA: 'wissen'
         }
 
         fs.createReadStream('src/data/fidicare.csv')
