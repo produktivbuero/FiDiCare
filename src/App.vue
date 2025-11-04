@@ -1,33 +1,26 @@
 <script setup>
   import fidicare from './data/fidicare.json'
-  import Chart from './components/Chart.vue'
 </script>
 
 <template>
   <section class="section theme-light">
     <div class="container">
-      <div class="columns">
-        <div class="column is-8">
-          <b-field label="Technologie" grouped group-multiline>
-            <b-button size="is-small" @click="selectedTechnologies = []" :type="selectedTechnologies.length == 0 ? 'is-dark' : ''" class="mr-3 has-text-weight-bold">Alle anzeigen</b-button>
-            <b-checkbox-button v-model="selectedTechnologies" v-for="(item, index) in uniqueTechnologies" :native-value="item" size="is-small" type="is-info">{{ item }}</b-checkbox-button>
-          </b-field>
+      <b-field label="Technologie" grouped group-multiline>
+        <b-button size="is-small" @click="selectedTechnologies = []" :type="selectedTechnologies.length == 0 ? 'is-dark' : ''" class="mr-3 has-text-weight-bold">Alle anzeigen</b-button>
+        <b-checkbox-button v-model="selectedTechnologies" v-for="(item, index) in uniqueTechnologies" :native-value="item" size="is-small" type="is-info">{{ item }}</b-checkbox-button>
+      </b-field>
 
-          <b-field label="Arbeitsart" grouped group-multiline>
-            <b-button size="is-small" @click="selectedTypes = []" :type="selectedTypes.length == 0 ? 'is-dark' : ''" class="mr-3 has-text-weight-bold">Alle anzeigen</b-button>
-            <b-checkbox-button v-model="selectedTypes" v-for="(item, index) in uniqueTypes" :native-value="item" size="is-small" type="is-info">{{ item }}</b-checkbox-button>
-          </b-field>
+      <b-field label="Arbeitsart" grouped group-multiline>
+        <b-button size="is-small" @click="selectedTypes = []" :type="selectedTypes.length == 0 ? 'is-dark' : ''" class="mr-3 has-text-weight-bold">Alle anzeigen</b-button>
+        <b-checkbox-button v-model="selectedTypes" v-for="(item, index) in uniqueTypes" :native-value="item" size="is-small" type="is-info">{{ item }}</b-checkbox-button>
+      </b-field>
 
-          <b-field class="mt-5 has-text-weight-bold">
-            <b-tag type="is-dark" class="mr-1">{{ filteredData.length }}</b-tag>
-            <span>Pflegeprodukte</span>
-          </b-field>
-        </div>
+      <b-field class="mt-5 has-text-weight-bold">
+        <b-tag type="is-dark" class="mr-1">{{ filteredData.length }}</b-tag>
+        <span>Pflegeprodukte</span>
+      </b-field>
 
-        <div class="column is-hidden-mobile is-4">
-          <Chart :filteredData="filteredData" />
-        </div>
-      </div>
+      <hr class="is-invisible">
 
       <b-table
         :data="filteredData"
