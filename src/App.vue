@@ -29,9 +29,6 @@
         sort-icon-desc="chevron-down"
         paginated
         per-page="10">
-          <b-table-column field="id" label="#" sortable v-slot="props">
-            {{ props.row.id }}
-          </b-table-column>
           <b-table-column field="name" label="Produktname" sortable searchable v-slot="props">
             <a :href="props.row.url" target="_blank" rel="noopener, noreferrer">
               {{ props.row.name }}
