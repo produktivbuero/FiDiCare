@@ -15,10 +15,6 @@ $pagination-current-border-color: $dark;
 @import "bulma/bulma";
 
 // Buefy anpassen
-.b-table .table td:nth-child(2) {
-    font-weight: 600;
-}
-
 .b-table .table th.is-sortable .th-wrap {
     padding-right: 1rem;
 }
@@ -40,5 +36,12 @@ $pagination-current-border-color: $dark;
         width: 3rem;
         height: 4px;
         background-color: $primary;
+    }
+}
+
+@include until($tablet) {
+    .b-table .table-wrapper.has-mobile-cards tr:not(.detail):not(.is-empty):not(.table-footer) td {
+        text-align: unset;
+        flex-wrap: wrap;
     }
 }
