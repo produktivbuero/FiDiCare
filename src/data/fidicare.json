@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "acs ambulance",
-    "url": "https://www.alphacomputer.de/ambulant/",
-    "description": "Egal ob für die Pflegedokumentation, Abrechnung oder Personal und Routenplanung – Sie entscheiden, an welchen Stellen unsere Software Ihre Arbeit erleichtern soll. So haben Sie und Ihre Mitarbeiter genügend Zeit für die Patienten.",
+    "url": "https://alphacomputer.de/software/acs-ambulance/",
+    "description": "Patientenverwaltung, Pflegedokumentation, Einsatzplanung, Abrechnung, Auswertung und vieles mehr – um all das im Überblick zu haben, bedarf es einer guten Organisation und eines Systems, was die Umsetzung dieser Aufgaben vereinfacht. ACS-Ambulance ist die ideale Komplettlösung für das Management all dieser Abläufe.",
     "type": "planen",
     "technology": "Dokumentation"
   },
   {
     "id": 2,
     "name": "Actilog",
-    "url": "https://www.esag-systems.ch/wa_files/Actilog_20Basic.pdf",
-    "description": "Actilog Basic ist eine Matte, die speziell für Patienten mit Einschränkungen von Koordination und/oder Orientierung entwickelt wurde. Beim Verlassen des Bettes wird der Alarm beim Pflegepersonal ausgelöst.",
+    "url": "https://acticom.ch/unsere-loesungen/sicherheitssysteme/bettueberwachung/actilog/?srsltid=AfmBOoojnmW_ywAXLLXosfk4CTuxlyh7aXLGirDnE5XFBHvd3AHQvxqS",
+    "description": "Actilog ist ein Bettüberwachungssystem in Form einer Matratzenunterlage, die speziell für Patienten mit Einschränkungen von Koordination und/oder Orientierung entwickelt wurde. Beim Verlassen des Bettes oder wahlweise bereits beim Aufsitzen, wird der Alarm kabellos via Funk an die Rufanlage gesendet und somit das Pflegepersonal informiert. Actilog garantiert eine Rundumüberwachung, da die Sensorik vom Patienten nicht umgangen werden kann.",
     "type": "pflegen",
     "technology": "Assistenzsystem"
   },
@@ -153,14 +153,6 @@
   },
   {
     "id": 20,
-    "name": "Careousel",
-    "url": "https://www.telecaresystems.at/webshop/medikamentenspender-careousel-gsm",
-    "description": "Careousel Advanced GSM von TeleCare stellt Ihnen mehrmals täglich zum richtigen Zeitpunkt das verordnete Medikament bereit. Dazu ertönt zweimal pro Minute ein unüberhörbares Signal und eine blinkende rote LED als visuelle Alarmierung. Erfolgt eine halbe Stunde lang keine Entnahme, wird das Medikament eingezogen, um eine Einnahme zum falschen Zeitpunkt zu verhindern.",
-    "type": "planen",
-    "technology": "Assistenzsystem"
-  },
-  {
-    "id": 21,
     "name": "CareSocial",
     "url": "https://www.caresocial.de/mobile-datenerfassung-pflege-smartphone-android-app.html",
     "description": "CareSocial ist keine Software von der Stange: unsere Pflege-Profis im Kundenservice helfen Ihnen gern bei Ihrer Abrechnung oder der Kommunikation mit den Leistungsträgern und Datenannahmestellen - ganz individuell, ganz nach Ihren Bedürfnissen. Durch CareSmart steht Ihnen zudem eine speziell auf die Bedürfnisse der ambulanten Pflege abgestimmte App für die effiziente mobile Datenerfassung ( mit Android-Smartphone oder auch iPhone ) zur Verfügung.",
@@ -168,7 +160,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "CareTable",
     "url": "https://caretable.de/",
     "description": "Der CareTable ist der digitale Aktivitätstisch für die Pflege. Ein in einen regional gefertigten Tisch eingelassener großer Touchscreen bietet Spiele, Übungen, Medien und Aktivierungsangebote – speziell auf Senioren zugeschnitten.",
@@ -176,7 +168,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "CARU",
     "url": "https://www.caru-care.com/",
     "description": "Der CARU Notruf und der CARU Family Chat werden durch Sprache gesteuert und verbinden den älteren Menschen mit Vertrauenspersonen – im Alltag und im Notfall.",
@@ -184,15 +176,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 24,
-    "name": "claptic",
-    "url": "https://www.claptic.com/",
-    "description": "claptic - die smarteste Notrufuhr mit den mehrfach ausgezeichneten Sicherheitsfunktionen: Telefon und Hilfe direkt am Handgelenk. Sturz, Unfall oder Notfall – die claptic ruft automatisch Hilfe.",
-    "type": "pflegen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 25,
+    "id": 23,
     "name": "CLARK",
     "url": "https://echord.eu/essential_grid/clark/index.html",
     "description": "The project is focus on robotized Comprehensive Geriatric Assessment. In particular, it focuses on the development of CLARC, a mobile robot able to receive the patient and his family, accompany them to the medical consulting room and, once there, help the physician to capture and manage their data during the Comprehensive Geriatric Assessment (CGA) procedures.",
@@ -200,7 +184,7 @@
     "technology": "Robotik"
   },
   {
-    "id": 26,
+    "id": 24,
     "name": "CLINISERVE",
     "url": "https://www.cliniserve.de/",
     "description": "Unser Fokus liegt neben verbesserter Kommunikation zwischen Pflegekräften und Patienten auf digitalen Schichtkonzepten, die Arbeitsprozesse für das Klinikpersonal erleichtern und verbessern und dabei helfen den, Pflegeengpass zu reduzieren.",
@@ -208,7 +192,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 27,
+    "id": 25,
     "name": "coachFORcare",
     "url": "https://www.coachforcare.de/",
     "description": "Wir decken den gesamten Prozess der betrieblichen Gesundheitsförderung in der Pflege ab – von der Analyse über die Planung und Umsetzung bis zur wiederkehrenden Erfolgskontrolle",
@@ -216,7 +200,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 28,
+    "id": 26,
     "name": "cogvis",
     "url": "https://cogvis.ai/",
     "description": "cogvisAI kann mittels 3D Smart-Sensoren Bewegungen im Raum erkennen, analysieren & in kritischen Situationen einen Alarm auslösen.",
@@ -224,23 +208,15 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 29,
-    "name": "COREDINATE",
-    "url": "https://www.coredinate.de/produkte/pflege",
-    "description": "Beseitigen Sie mit COREDINATE alle Unklarheiten. Dokumentieren Sie nicht nur Ihre Anwesenheit zweifelsfrei, sondern auch die ausgeführten Tätigkeiten und definieren Sie Transparenz in der Pflege neu. Dafür gibt es die Pflegedokumentation von COREDINATE.",
-    "type": "planen",
-    "technology": "Dokumentation"
-  },
-  {
-    "id": 30,
-    "name": "CrayX",
-    "url": "https://www.germanbionic.com/cray-x-systemloesung/",
-    "description": "Das Cray X bietet unmittelbare Unterstützung bei allen Aufgaben, die manuelles Handling beinhalten. Doch dies ist erst der Anfang. Logistikprozesse lassen sich auch langfristig sicherer und effektiver gestalten. Nur German Bionic bietet eine komplette Systemlösung an, die sich in digitale Logistik- und Smart-Warehouse-Workflows einbinden lässt. Zusätzlich bietet German Bionic Echtzeitdaten und zeigt die Auswirkung auf die Gesundheit der Mitarbeiter, sowie die nachhaltige Steigerung der Effizienz in Supply-Chain-Prozessen und der Wirtschaftlichkeit von Unternehmen auf.",
+    "id": 27,
+    "name": "Exia",
+    "url": "https://www.germanbionic.com/de/",
+    "description": "German Bionic ist ein europäisches Robotikunternehmen, das intelligente Exoskelette und Wearable-Technologien entwickelt und fertigt. Als weltweit erstes Unternehmen haben wir ein vernetztes Exoskelett für die Arbeitswelt geschaffen, das KI-basiert Hebebewegungen unterstützt und Fehlhaltungen vorbeugt. Unsere Exoskelette schützen die Gesundheit von Arbeitskräften, verringern messbar Unfall- und Verletzungsrisiken und verbessern so die Arbeitsprozesse.",
     "type": "planen",
     "technology": "Assistenzsystem"
   },
   {
-    "id": 31,
+    "id": 28,
     "name": "CRDL",
     "url": "https://www.crdl.com/de/home-de/",
     "description": "Das CRDL (Cradle) ist ein interaktives Pflegeinstrument, dass durch die Umsetzung der zwischenmenschlichen Berührung in Geräusche eine neue Form von Kontakt ermöglicht.",
@@ -248,15 +224,15 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 32,
+    "id": 29,
     "name": "CuraSoft",
     "url": "https://www.curasoft.de/",
-    "description": "CuraSoft kann mehr als du denkst! Unsere Plattform ermöglicht es Drittanbietern, sich nahtlos anzudocken und Informationen aus CuraSoft in ihre eigene Software zu integrieren.\nDer Vorteil? Du sparst dir doppelte Datenpflege und kannst verschiedene Anwendungen – von Buchhaltung über Sales bis hin zu Marketing – ganz einfach miteinander verknüpfen. Alles läuft zentral über CuraSoft, sodass du effizienter arbeiten kannst.",
+    "description": "CuraSoft kann mehr als du denkst! Unsere Plattform ermöglicht es Drittanbietern, sich nahtlos anzudocken und Informationen aus CuraSoft in ihre eigene Software zu integrieren.\r\nDer Vorteil? Du sparst dir doppelte Datenpflege und kannst verschiedene Anwendungen – von Buchhaltung über Sales bis hin zu Marketing – ganz einfach miteinander verknüpfen. Alles läuft zentral über CuraSoft, sodass du effizienter arbeiten kannst.",
     "type": "planen",
     "technology": "Dokumentation"
   },
   {
-    "id": 33,
+    "id": 30,
     "name": "DayClocks",
     "url": "https://www.dayclocks.de/",
     "description": "DayClocks sorgt tagtäglich für Struktur und Übersicht, da nicht nur die Uhrzeit, sondern auch die Termine des Benutzers angezeigt werden. Diese können vom Benutzer und/oder von der Pflegekraft eingeplant werden.",
@@ -264,7 +240,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 34,
+    "id": 31,
     "name": "Decon-X",
     "url": "https://decon-x-deutschland.de/",
     "description": "Seit 2014 entwickelt Decon-X International unermüdlich Technologien, die Institutionen zur echten Desinfektions-Prävention führen. Es geht um die Konzeptumkehr: Nicht nur Ausbrüche bekämpfen, sondern auch bereits verhindern. Unsere Decon-X-Technologie wurde von einem Expertenteam aus Forschern, IT-Spezialisten und Ingenieuren bis ins kleinste Detail durchdacht – mit besonderem Fokus auf höchste Praktikabilität und Zuverlässigkeit",
@@ -272,7 +248,7 @@
     "technology": "Robotik"
   },
   {
-    "id": 35,
+    "id": 32,
     "name": "DEJORIS",
     "url": "https://www.dejoris.de/de/uebersicht",
     "description": "Mit DEJORIS erstellen Sie in nur fünf Schritten Ihren fertigen Dienstplan. Intuitive Funktionen helfen Ihnen anschließend u.a. mit Ihren Mitarbeitern zu kommunizieren, Auswertungen zu erstellen oder auch Arbeitszeiten zu erfassen.",
@@ -280,15 +256,15 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 36,
-    "name": "DigiRehab",
-    "url": "https://dev.digirehab.de/",
-    "description": "DigiRehab ist ein maßgeschneidertes und kosteneffizientes digitales Übungsprogramm, das in der Altenpflege zum Einsatz kommt und die Lebensqualität von Mitarbeitern und Patienten in Pflegeeinrichtungen nachhaltig verbessert.",
+    "id": 33,
+    "name": "DigiCare",
+    "url": "https://digirehab.de/",
+    "description": "Was ist DigiCare?\r\nDigiCare ist weit mehr als eine digitale Trainingsapp. Es ist ein webbasiertes, pflegeunterstützendes Mobilitätskonzept für ambulante, teilstationäre und stationäre Pflegeeinrichtungen.\r\n\r\nDas Ziel: Beweglichkeit und Selbstständigkeit älterer Menschen effektiv zu fördern und gleichzeitig Pflegekräfte im Alltag spürbar zu entlasten.",
     "type": "pflegen",
     "technology": "Kommunikation"
   },
   {
-    "id": 37,
+    "id": 34,
     "name": "DM7",
     "url": "https://dm-edv.de/produkte/dm7-stationaer/",
     "description": "Verwaltung und Abrechnung, Einsatz- und Tourenplanung, Pflegeplanung und Dokumentation, Dienstplanung, Controlling und Management und DM7 Mobile – entdecken Sie die intelligenten Module unserer stationären Lösung.",
@@ -296,7 +272,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 38,
+    "id": 35,
     "name": "DMRZ-Pflegeapp",
     "url": "https://www.dmrz.de/software/pflege-app?gclid=EAIaIQobChMItJb3peie8wIV6UaRBR0ysQwwEAAYASAAEgJT9vD_BwE",
     "description": "Einfach mit der praktischen App-Funktion SmartSnapp QR-Code auf den Pflegedokumenten fotografieren und die Daten werden automatisch im System erfasst. Eine zeitaufwendige Nachbearbeitung bleibt Ihnen erspart!",
@@ -304,7 +280,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 39,
+    "id": 36,
     "name": "Dragon Medical One",
     "url": "https://www.nuance.com/de-de/healthcare.html",
     "description": "Die neue Generation der Spracherkennung. Jederzeit und überall verfügbar aus der deutschen Cloud.",
@@ -312,7 +288,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 40,
+    "id": 37,
     "name": "easierLife",
     "url": "https://www.easierlife.de/",
     "description": "Mobiles intelligentes Notrufsystem für Demenzerkrankte, Sicherheit für Weglaufgefährdete durch Geofencing, Basisstation mit Bewegungssensoren, Kontaktsensoren, Aktivitätsmessung durch Infrarot, einschl. mobiler App für Benachrichtigungen zur Situation und Notruf, Wohlaufbenachrichtigung per App",
@@ -320,7 +296,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 41,
+    "id": 38,
     "name": "ecaria",
     "url": "https://ecaria.de/",
     "description": "Wir entwickeln digitale Lösungen, um die Organisation von Pflegebedürftigkeit, zustehenden Leistungsansprüchen und bürokratischen Vorgängen in der Pflege für pflegende Angehörige und Pflegebedürftige ganzheitlich zu erleichtern – daher steht neben der digitalen Begleitung über die „Pflegereise“ hinweg auch das Thema inhaltliche Befähigung im Vordergrund.",
@@ -328,7 +304,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 42,
+    "id": 39,
     "name": "ePA",
     "url": "https://www.epa-cc.de/",
     "description": "epa (effiziente Pflegeanalyse) ist ein System zur elek­tronischen Pflege­prozess­­doku­mentation. Es bildet Pflege­verläufe ab und liefert solide Ent­scheidungs­grundlagen für Pflege­­fach­personen und Klinik­­management.",
@@ -336,7 +312,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 43,
+    "id": 40,
     "name": "escos-Copilot",
     "url": "https://www.escos-automation.com/",
     "description": "Der Copilot von escos ist ein digitaler Pflegeassistent, der ein selbstbestimmtes Leben im Alter fördert. Er erkennt schnell und zuverlässig Notfälle und leitet umgehend Hilfe ein – ganz ohne aktive Beteiligung der Nutzer:innen. Seine Sensoren erfassen z. B., wenn eine Person stürzt oder ein Herd noch in Betrieb ist.",
@@ -344,7 +320,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 44,
+    "id": 41,
     "name": "GaBaLEARN",
     "url": "http://eduproject.eu/gabalearn/",
     "description": "Der BMBF-Projektverbund „Game Based Learning in Nursing – Spielerisch Lernen in authentischen, digitalen Pflegesimulationen“ (GaBa_Learn) arbeitet an der Entwicklung und Erprobung von computerbasierten Lernspielen, die für eine komplexe pflegerische Fallarbeit im Rahmen der Pflegeausbildung eingesetzt werden können.",
@@ -352,7 +328,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 45,
+    "id": 42,
     "name": "geta(i)plan",
     "url": "https://www.hawk-intech.com/",
     "description": "getaiplan ist eine intelligente Schichtplanungssoftware für die hochflexible Personaleinsatzplanung, optimiert für die Industrie. Hierbei kommt künstliche Intelligenz (ai) zum Einsatz.",
@@ -360,7 +336,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 46,
+    "id": 43,
     "name": "GO ON",
     "url": "https://www.godo-systems.de/ambulante-betreuung/ambulant-manager/",
     "description": "GO ON® Ambulante Betreuung ist Ihre moderne Software für die ambulante Pflegedienste, Intensivpflege, Hilfen im Alltag und Tagespflege.",
@@ -368,15 +344,15 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 47,
+    "id": 44,
     "name": "Granny Vision",
-    "url": "https://www.granny-vision.com/vr-fuer-senioren-pflege",
-    "description": "Wir wollen älteren Personen in der virtuellen Realität Erlebnisse ermöglichen, die sie auf Grund ihrer physischen oder psychischen Verfassung nicht mehr real erleben können. Beispielsweise durch den Wald zu spazieren, den Sonnenuntergang am Strand genießen, den Besuch einer Oper oder eine Busfahrt durch Rom.",
+    "url": "https://provita-deutschland.de/granny-vision-virtual-reality-fuer-senioren/",
+    "description": "„Unser Antrieb bei Granny Vision war und ist, älteren Menschen positive Emotionen zu vermitteln. Dies machen wir hauptsächlich in der Virtual Reality. Der Waldspaziergang, das Orchester, der Städtetrip oder Eindrücke von Familienfeiern können (wieder) hautnah miterlebt werden“ – so Daniel Bendlin, einer der Gründer von Granny Vision.\r\n\r\nZiel ist es, älteren Personen mittels VR-Brillen Erlebnisse zu ermöglichen, die sie auf Grund der physischen oder psychischen Lage nicht mehr real erleben können. Beispielsweise ein Waldspaziergang, den Besuch einer Oper oder eine Busfahrt durch Rom. Hierfür bereiten der in München beheimatete Anbieter die VR-Brillen entsprechend vor und installiert die Inhalte.",
     "type": "pflegen",
     "technology": "Kommunikation"
   },
   {
-    "id": 48,
+    "id": 45,
     "name": "G-Guard",
     "url": "https://www.pikk-systems.de/produkte/PIKKSENSE/pikksense-senior.htm",
     "description": "Der G-Guard ist ein weltweit einzigartiges Sturzerkennungssystem, welches keinerlei Energien wie z.B Radar, Licht-, Laser oder Infrarotstrahlung aussendet. Es kann 24x7 autark und selbstständig Stürze von Personen erkennen.",
@@ -384,7 +360,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 49,
+    "id": 46,
     "name": "Helfer Portal",
     "url": "https://www.helferportal.de/",
     "description": "Die Helferportal GmbH & Co. KG unterstützt soziale Organisationen und Kommunen beim Aufbau und Management von Helferkreisen. Wir bringen logistisches Know-how und Digitalisierung in den sozialen Bereich ein.",
@@ -392,7 +368,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 50,
+    "id": 47,
     "name": "HerzBegleiter",
     "url": "https://herzbegleiter.de/startseite/",
     "description": "Mit der sofort verfügbaren Hilfe der Tele-Pflegeberatung verbessern und entlasten wir die Versorgungssituation von Pflegenden und Pflegebedürftigen. Pflegeexperten sprechen und sehen. Drängende persönliche Fragen rasch beantworten für eine bessere Bewältigung des Alltags.",
@@ -400,7 +376,7 @@
     "technology": "Telecare"
   },
   {
-    "id": 51,
+    "id": 48,
     "name": "HLth.care",
     "url": "https://hlthcare.club/#organisatorisch-entlastet",
     "description": "Die HLth.care Team App unterstützt die Selbstorganisation von Teammitgliedern und verringert den Aufwand für das Organisatorische im Team. Es gibt zahlreiche Funktionen: Dienstplan führen und teilen, Chatten, Digitaler Berufsausweis, Skill-Suche, Krankmeldungen, Ausfallmanagement, Dienste in- extern ausschreiben, Springerpool Management, Arbeitszeiterfassung und Leistungsdokumentation, Diensttausch-Assistent auch mit abteilungsübergreifendem Tauschen, Zeitkorrekturen, Pausenkorrekturen, Arbeitszeiterfassung, Schnittselle zu HR und Kliniksystemen, Bitte-nicht-stören Funktion, Frei-& Dienstwünsche übermitteln und vieles mehr.",
@@ -408,7 +384,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 52,
+    "id": 49,
     "name": "hublo",
     "url": "https://hublo.com/de",
     "description": "Durch hohe Ausfallquoten und den temporären Anstieg des Arbeitsaufkommens ist das Ausfallmanagement zu einer strukturellen Herausforderung für Gesundheits- und Pflegeeinrichtungen geworden. Wir bieten unseren Kunden eine intuitive und effektive digitale Lösung, die Ihrem Anspruch gerecht wird.",
@@ -416,7 +392,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 53,
+    "id": 50,
     "name": "icho",
     "url": "https://icho-systems.de/",
     "description": "Mit ichó bringen wir dir dein persönliches Therapiesystem nach Hause, damit du die beste Förderung erhältst. ichó unterstützt dich bei deinem Therapieprozess, für ein selbstbestimmtes und uneingeschränktes Leben.",
@@ -424,23 +400,15 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 54,
-    "name": "iliviClinic",
-    "url": "https://www.ilvi.io/ilviclinic?lang=en",
-    "description": "Supports the essential processes of clinic staff. ilviClinic controls the exchange of data with various medical devices and forms the interface between patient, nurse and hospital information system (HIS).",
+    "id": 51,
+    "name": "Ilvi",
+    "url": "https://www.ilvi.io/",
+    "description": "Warum Vitaldaten nachträglich dokumentieren, statt sie direkt im Workflow zu erfassen?\r\nWarum isolierte Systeme akzeptieren, wenn sich Geräte und Anwendungen nahtlos vernetzen lassen? Dokumentation wird Teil des Arbeitsprozesses, ohne Nacharbeit und ohne Erfassungsfehler.\r\nDas Ergebnis: Mehr Zeit für die persönliche Versorgung Ihrer Patienten. Digitale Prozesse müssen entlasten, nicht zusätzlich beschäftigen. Unsere Lösungen greifen genau dort ein, wo Zeit verloren geht, Medienbrüche entstehen oder Systeme nicht miteinander sprechen.",
     "type": "planen",
     "technology": "Kommunikation"
   },
   {
-    "id": 55,
-    "name": "iliviHome",
-    "url": "https://www.ilvi.io/ilvihome?lang=en",
-    "description": "With the help of ilviHome, a large number of parameters can be recorded at home by the patients themself and transferred to the clinic. Avoid unnecessary hospital stays.",
-    "type": "planen",
-    "technology": "Telecare"
-  },
-  {
-    "id": 56,
+    "id": 52,
     "name": "KI-Campus",
     "url": "https://ki-campus.org/datenfluss",
     "description": "Der Kurs „Stadt | Land | DatenFluss“ sensibilisiert für einen souveränen Umgang mit Daten in einer digitalisierten Welt und weckt das Interesse an neuen datengestützten Technologien.",
@@ -448,7 +416,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 57,
+    "id": 53,
     "name": "LAQA",
     "url": "https://www.laqa.de/",
     "description": "Der smarte Trinkbecher von LAQA erinnert den Nutzer an eine ausreichende Flüssigkeitsaufnahme. Das Trinkverhalten wird erfasst und die gewonnen Daten zur Analyse in unser Rechenzentrum übermittelt. Dort ist für jeden Nutzer ein Trinkprofil hinterlegt, mit dem der jeweilige Flüssigkeitskonsum abgeglichen wird.",
@@ -456,7 +424,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 58,
+    "id": 54,
     "name": "LearnBase",
     "url": "https://www.althammer-kill.de/akademie/e-learning",
     "description": "Digitalisierung ist längst nicht mehr nur ein Thema über das man redet, sondern mit dem stetigen Zuwachs von Homeoffice, mobiler Arbeit und Telearbeit auch eines in dem viel Bewegung ist und für das etwas getan wird. Wir unterstützen Sie an dieser Stelle passgenau mit unserer E-Learning-Plattform LearnBase, mit der Sie Ihre Mitarbeitenden einfach, bequem und zeitsparend überall schulen und unterweisen können.",
@@ -464,7 +432,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 59,
+    "id": 55,
     "name": "LearningApps",
     "url": "https://learningapps.org/",
     "description": "LearningApps.org unterstützt Lern- und Lehrprozesse mit kleinen interaktiven, multimedialen Bausteinen, die online erstellt und in Lerninhalte eingebunden werden. Für die Bausteine (Apps genannt) steht eine Reihe von Vorlagen (Zuordnungsübungen, Multiple Choice-Tests etc.) zur Verfügung. Die Apps stellen keine abgeschlossenen Lerneinheiten dar, sondern müssen in ein Unterrichtsszenario eingebettet werden.",
@@ -472,7 +440,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 60,
+    "id": 56,
     "name": "LifeBonus",
     "url": "https://www.lifebonus.health/",
     "description": "LifeBonus ist Marktführer im Bereich der berufsspezifischen Gesundheitsförderung für Pflegende. Wir betreuen Tausende von beruflichen Pflegekräften in ganz Deutschland. Wir unterstützen pflegende Angehörige mit der »ich pflege« App. Und wir bündeln Gesundheitskompetenz von heute mit den digitalen Möglichkeiten von morgen.",
@@ -480,7 +448,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 61,
+    "id": 57,
     "name": "LINarm++",
     "url": "https://echord.eu/linarm.html",
     "description": "LINarm++ is a device for neuromuscular rehabilitation of the upper limb, designed to enable rehabilitation training and treatment in both home and clinical environment.",
@@ -488,7 +456,7 @@
     "technology": "Telecare"
   },
   {
-    "id": 62,
+    "id": 58,
     "name": "Lindera",
     "url": "https://lindera.de/de-de/lindera",
     "description": "Die LINDERA Mobilitätsanalyse vereinfacht die individuelle Sturzrisikobewertung und liefert direkt Maßnahmenempfehlungen, integriert in den Pflegealltag und gemäß der SIS.",
@@ -496,7 +464,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 63,
+    "id": 59,
     "name": "LingoCARE",
     "url": "https://lingo.care/",
     "description": "Lingocare ist ein junges Digitalunternehmen mit online Lernangeboten extra für Pflegekräfte. Schwerpunkt sind unsere Online-Deutschkurse. Die fehlenden Sprachkompetenzen von Pflegekräften stellen Einrichtungen täglich vor große Herausforderungen. Corona zeigte uns: Lernen geht auch digital.",
@@ -504,7 +472,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 64,
+    "id": 60,
     "name": "Lio",
     "url": "https://www.fp-robotics.com/de/lio/",
     "description": "Lio ist ein freundlicher, mobiler Roboter mit einem funktionalen Arm, der Menschen aktiv unterstützt. Er wird an verschiedenen Orten eingesetzt – in Pflege- und Altenpflegeeinrichtungen, Rehabilitationszentren oder zu Hause. Lio ist in der Lage, mit Menschen zu kommunizieren, sie zu unterhalten und Fachleute bei ihren täglich anfallenden Aufgaben zu unterstützen.",
@@ -512,7 +480,7 @@
     "technology": "Robotik"
   },
   {
-    "id": 65,
+    "id": 61,
     "name": "Lylu",
     "url": "https://lylu-2023.webflow.io/",
     "description": "Das Herzstück des Lylu Senioren Tablets ist die seniorengerechte Software, die es Senioren ermöglicht beliebte Apps einfach und unkompliziert zu nutzen. Mit den Liebsten per Video telefonieren. Bilder von Erlebnissen mit den Enkeln teilen. Sprachnachrichten versenden. Lustige Videos auf YouTube anschauen. Wikipedia durchstöbern. Spiele spielen. Alles kein Problem mit Lylu. Denn alle Funktionen folgen der gleichen einheitlichen und seniorengerechten Bedienung. Es gibt keine Pop-ups und keine Werbungen.",
@@ -520,7 +488,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 66,
+    "id": 62,
     "name": "magic minutes",
     "url": "https://www.magic-minutes.de/",
     "description": "magic minutes bietet sorgsam ausgewählte Musik, Bilder, Töne, Hörstücke und Übungen für die spontane Aktivierung. Vorkenntnisse für die Bedienung sind nicht notwendig. Eine kurze Anleitung im Portal erklärt anschaulich die einfache grundlegende Funktionsweise aller Anwendungen. magic minutes ist auf allen mobilen und stationären Endgeräten einsetzbar.",
@@ -528,7 +496,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 67,
+    "id": 63,
     "name": "medanets",
     "url": "https://medanets.com/de/",
     "description": "Die Medanets Krankenhaus-App wurde zusammen mit Fachkräften aus dem Gesundheitswesen entwickelt. Sie vereinfacht die Pflegeroutinen, unterstützt die Entscheidungsfindung und gewährleistet durch die digitale Dokumentation zusätzliche Zeit für Pflegemaßnahmen direkt beim Patienten.",
@@ -536,7 +504,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 68,
+    "id": 64,
     "name": "media4care",
     "url": "https://www.media4care.de/",
     "description": "Media4Care ist Ausdruck eines tief sitzenden Wunsches: Mehr Lebensfreude für Senioren, Pflegebedürftige und Menschen mit Demenz zu ermöglichen. Gemeinsam entwickelt unser engagiertes Team ein innovatives Tablet mit einzigartigen Inhalten.",
@@ -544,15 +512,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 69,
-    "name": "MediActive",
-    "url": "https://www.medicactiv.com/en/",
-    "description": "Role playing simulators allows learners in graduate or continuing education to develop, refine, and apply knowledge and skills in a realistic situation. By interacting with patients and objects in a situation close to everyday life, virtual simulation improves critical thinking, acquisition of automatisms and clinical decision-making skills.",
-    "type": "wissen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 70,
+    "id": 65,
     "name": "MediFox",
     "url": "https://www.medifox.de/pflege-app/",
     "description": "MediFox steht für ganzheitliche Softwarelösungen für Ihren Pflegedienst. Mit der weiter fortschreitenden Digitalisierung ergeben sich immer größere Anforderungen an Mobilität und Flexibilität. Dadurch wird auch das Smartphone immer wichtiger, sodass Sie auch von unterwegs aus arbeiten können und sich keine Lücken ergeben.",
@@ -560,7 +520,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 71,
+    "id": 66,
     "name": "medipee",
     "url": "https://www.medipee.com/?cookie-state-change=1636478251896",
     "description": "Über 2 Milliarden Urintests pro Jahr sind häufig fehlerhaft, zeitaufwändig und vor allem unangenehm in der Probenahme. Für die bisherige Messung müssen Probanden meist umständlich in einen Becher urinieren. Danach wird die Probe über viele manuelle Zwischenschritte weiter verarbeitet. Medipee löst dieses Problem in dem der Urin unmittelbar dort analysiert wird, wo er abgegeben wird. Wir digitalisieren die Urinanalyse mit einer App samt Gerät, das an die Toilette geklipst wird.",
@@ -568,7 +528,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 72,
+    "id": 67,
     "name": "OPUS",
     "url": "https://myopus.eu/Branchenloesungen/Ambient-Assisted-Living/",
     "description": "Ambient Assisted Living (AAL) bietet innovative Lösungen, um Menschen dabei zu helfen, länger in ihren eigenen vier Wänden zu bleiben und gleichzeitig Sicherheit, Komfort und Unabhängigkeit zu gewährleisten. Dieses unterstützende Wohnkonzept umfasst eine Vielzahl von Technologien, darunter Sensoren, intelligente Geräte und Kommunikationssysteme, die dazu beitragen, den Alltag zu erleichtern und die Lebensqualität zu verbessern. Erfahren Sie mehr über die Möglichkeiten, die OPUS für ein aktives und gesundes Leben bietet, unabhängig von Alter oder Einschränkungen.",
@@ -576,7 +536,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 73,
+    "id": 68,
     "name": "M-Guard",
     "url": "https://www.panion.eu/",
     "description": "Der M-GUARD PRO ist ein Notrufarmband mit integriertem Notrufknopf, GPS-Ortungsfunktion, Telefonfunktion und integriertem Sturzsensor*. Durch die einfache Bedienung, bietet der M-GUARD PRO einen optimalen Schutz für Senioren und Pflegebedürftige.",
@@ -584,7 +544,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 74,
+    "id": 69,
     "name": "MiRo-E",
     "url": "https://consequentialrobotics.com/miroe",
     "description": "MiRo is a fully programmable autonomous robot for researchers, educators, developers and healthcare professionals. With six senses, eight degrees of freedom, an innovative brain-inspired operating system and a simulation software package, MiRo is a flexible platform suited for developing companion robots.",
@@ -592,7 +552,7 @@
     "technology": "Robotik"
   },
   {
-    "id": 75,
+    "id": 70,
     "name": "Mobility Monitor",
     "url": "https://www.compliant-concept.ch/produkte/spital/#produkt-mobility-monitor",
     "description": "Das Patientenmonitoring-System Mobility Monitor™ ermöglicht Ärzten und Pflegeexperten in Echtzeit eine massgebliche Optimierung verschiedener Qualitätsindikatoren, insbesondere Sturz und Dekubitus, sowie Schmerzen und Delir. Durch kontinuierliches Auswerten der Bewegungen sowie des Aufsteh- und Schlafverhaltens der zu pflegenden Personen werden die notwendigen Massnahmen und zu treffenden Vorkehrungen rechtzeitig erkannt und können dynamisch bedürfnisgerecht angepasst werden.",
@@ -600,7 +560,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 76,
+    "id": 71,
     "name": "moio.care",
     "url": "https://moio.care/",
     "description": "Gute Pflege braucht Zeit. Das moio.care System ist rund um die Uhr für pflegebedürftige Menschen da, um ihre Pflege zu verbessern und Sie zu entlasten. Der digitale Pflegeassistent erkennt Notsituationen und informiert Sie, wenn Sie gebraucht werden.",
@@ -608,7 +568,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 77,
+    "id": 72,
     "name": "Moodle",
     "url": "https://moodle.org/",
     "description": "Mit Hunderten Millionen Benutzern auf der ganzen Welt und Übersetzungen in über 100 Sprachen gibt Ihnen Moodle die Freiheit, Online-Lehr- und Schulungslösungen zu erstellen, die den Bedürfnissen Ihrer Lernenden am besten entsprechen.",
@@ -616,15 +576,15 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 78,
-    "name": "MYO",
-    "url": "https://www.ppz-nuernberg.de/myo/",
-    "description": "Mittels der datenschutzkonformen App konnten sie die Angehörigen anhand von Fotos, Videos, Text- und Sprachnachrichten am Alltag der Bewohner*innen jederzeit teilhaben lassen. Dadurch wurde die wertvolle Arbeit der Pflege- und Betreuungskräfte transparenter und eine motivierende Anerkennung seitens der Familien war häufig in deren eingehenden Antworten und Reaktionen erkennbar.",
+    "id": 73,
+    "name": "Myo",
+    "url": "https://myo.de/",
+    "description": "myo ist eine einfach zu bedienende App für die Pflege, die Einrichtungen in der Altenpflege mit Angehörigen und Dienstleistern vernetzt. Wir helfen Mitarbeitenden, Bewohnerinnen und Bewohnern und Familien, indem wir digitale Lösungen in die Pflegeheime bringen, die Arbeitsabläufe verbessern und Transparenz durch sichere Kommunikation erhöhen.",
     "type": "pflegen",
     "technology": "Kommunikation"
   },
   {
-    "id": 79,
+    "id": 74,
     "name": "navel robotics",
     "url": "https://navelrobotics.com/",
     "description": "Wir entwickeln eine soziale Roboterfigur, die Betreuungskräfte entlastet und das Wohlbefinden Pflegebedürftiger steigert. Sie ist komplett autonom, bewegt sich frei im Raum, sucht aktiv den Kontakt zu Menschen und animiert zur Interaktion. Per Sprache begrüßt die Roboterfigur beim Namen, fragt nach dem Wohlbefinden, gibt Informationen zum Mittagessen oder bietet bei Langeweile auch sprachbasierte Spiele an. Die Figur kann sogar Interventionen aus der Positiven Psychologie durchführen.",
@@ -632,7 +592,7 @@
     "technology": "Robotik"
   },
   {
-    "id": 80,
+    "id": 75,
     "name": "nevis",
     "url": "https://nevisq.com/",
     "description": "Wir glauben an eine Gesellschaft, in der jeder in Würde altern kann, und dass Freiheit und Sicherheit Hand in Hand gehen müssen. Deshalb haben wir unter der Marke nevisCura verschiedene Lösungen entwickelt, die Stürze erkennen und verhindern. Als technischer Helfer entlastet nevisCura Pflegekräfte und ermöglicht Senioren ein sicheres Leben.",
@@ -640,7 +600,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 81,
+    "id": 76,
     "name": "NICE",
     "url": "https://nice-education.de/",
     "description": "Das Network for International Care Education - kurz NICE - ist eine E-Learning Plattform, die auswärtige Pflegefachpersonen durch Fachsprachübungen und Kulturvermittlung dabei unterstützt, sich besser im Arbeitsalltag und im privaten Leben in Deutschland zurechtzufinden.",
@@ -648,7 +608,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 82,
+    "id": 77,
     "name": "nobi",
     "url": "https://nobi.life/",
     "description": "Nobi enables elderly people to live at their desired place for as long as possible. With its smart lamps Nobi can detect falls and can, if needed, contact family or caregivers quickly.",
@@ -656,7 +616,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 83,
+    "id": 78,
     "name": "NOVAHEAL",
     "url": "https://novaheal.de/",
     "description": "An Novaheal arbeiten Lehrkräfte, Psycholog:innen, UX-Designer:innen, Entwickler:innen und Pflegekräfte gemeinsam, um eine Lernplattform zu schaffen, die das hält, was sie verspricht: Auszubildende sicher und praxisnah auf dem Weg zur Pflegekraft begleiten!",
@@ -664,7 +624,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 84,
+    "id": 79,
     "name": "NuersePlan",
     "url": "http://www.nurseplan.de/",
     "description": "NursePlan® ist eine Computersimulation, die typische Planungs- und Problemlöseanforderungen abbildet, wie sie täglich im Stationsalltag vorkommen. Die Aufgabe für die Nutzerinnen und den Nutzer besteht darin, in der virtuellen Pflegewelt verschiedene pflegerische Probleme zu erkennen und dann geeignete Pflegemaßnahmen umzusetzen.",
@@ -672,7 +632,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 85,
+    "id": 80,
     "name": "NUI Care",
     "url": "https://www.nui.care/",
     "description": "Egal ob Anträge stellen, Arzttermine organisieren, Pflegehandgriffe erlernen oder persönliche Beratung durch Pflegeexperten. Pflege einfach gemeinsam meistern.",
@@ -680,15 +640,15 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 86,
+    "id": 81,
     "name": "careIT",
-    "url": "https://nursit.de/nursit-home",
+    "url": "https://nursit.de/careit",
     "description": "Wir haben eine moderne, intuitive Expertensoftware geschaffen, die nicht nur beim täglichen Pflegeprozess und der Pflegedokumentation mittels KI und Prädiktion unterstützt, sondern auch Routineaufgaben automatisch und selbstständig übernehmen kann. careIT ist mobil und kann in allen Pflegesettings und -sektoren interoperabel genutzt werden.",
     "type": "wissen",
     "technology": "Dokumentation"
   },
   {
-    "id": 87,
+    "id": 82,
     "name": "orgavision",
     "url": "https://www.orgavision.com/software",
     "description": "orgavision erfüllt alle Anforderungen einer Software für moderne, digitale Managementsysteme: Informationen zuverlässig lenken und verteilen, Wissen speichern, Prozesse transparent und nachvollziehbar machen.",
@@ -696,7 +656,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 88,
+    "id": 83,
     "name": "PARO",
     "url": "http://www.parorobots.com/index.asp",
     "description": "PARO is an advanced interactive robot developed by AIST, a leading Japanese industrial automation pioneer. It allows the documented benefits of animal therapy to be administered to patients in environments such as hospitals and extended care facilities where live animals present treatment or logistical difficulties.",
@@ -704,7 +664,7 @@
     "technology": "Telecare"
   },
   {
-    "id": 89,
+    "id": 84,
     "name": "Pepper",
     "url": "https://www.probo-robotics.at/humanoider-roboter-pepper/",
     "description": "Pepper dient als Ansprechpartner für Patienten, muntert sie auf und erfüllt Ihre Wünsche.",
@@ -712,23 +672,15 @@
     "technology": "Robotik"
   },
   {
-    "id": 90,
-    "name": "PETRA",
-    "url": "https://www.merckgroup.com/de/research/science-space/envisioning-tomorrow/precision-medicine/petra.html",
-    "description": "PETRA steht für Prescreening Experience Through Robot Assessment. Also ein Vorabscreening durch ein Robotergutachten, das in einer öffentlich zugänglichen Umgebung stattfinden soll.",
-    "type": "wissen",
-    "technology": "Robotik"
-  },
-  {
-    "id": 91,
-    "name": "pflege campus",
-    "url": "https://www.pflegecampus.de/demo/1/?id=5&aktiv=fachfortbildungen&gclid=EAIaIQobChMIxJPXrKKh8wIVk7myCh0rgQ0nEAAYAyAAEgI_7PD_BwE&gclsrc=aw.ds",
-    "description": "Sie haben Zugriff auf TOP-Experten zu verschiedensten Themen und Wissen aus der Pflegebranche in unserem einzigartigen Kursangebot mit über 250 Schulungen inklusive Pflichtunterweisungen mit mehrsprachigen Untertiteln.",
+    "id": 85,
+    "name": "Pflegecampus",
+    "url": "https://www.pflegecampus.de/",
+    "description": "Die Lernwelt von Pflegecampus bietet Ihnen unbegrenzten Zugriff auf Expertenwissen von den TOP-Referenten der Pflege und Medizin in über 900 Schulungen inkl. Pflichtunterweisungen mit mehr als 3.500 Lerneinheiten und 2.300 Wissenstests - noch nie waren wir so flexibel und der Zugang zu Wissen so leicht.",
     "type": "wissen",
     "technology": "Kommunikation"
   },
   {
-    "id": 92,
+    "id": 86,
     "name": "Pflegedienst-Manager",
     "url": "https://www.pflegedienst-personal.de/app-pflegedienst-manager.html",
     "description": "Alle Tätigkeitsprofile in ihrer Pflegeeinrichtung werden durch Symbole in der App dargestellt und unterstützen ihre Mitarbeiter bei der Erfassung täglicher Routinearbeiten sowie der papierlosen Verwaltung und Dokumentation von Pflegeleistungen.",
@@ -736,23 +688,15 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 93,
-    "name": "Pflegepartner",
-    "url": "https://www.vkb.de/content/services/exklusiver_gesundheitsservice/pflegepartner/",
-    "description": "Mit der Informationsplattform „PflegePartner\" haben wir ein Angebot speziell für pflegende Angehörige auf die Beine gestellt – unabhängig davon, ob Sie bei uns versichert sind.",
-    "type": "planen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 94,
-    "name": "Pflegeplatzmanager",
-    "url": "https://www.pflegeplatzmanager.de/",
-    "description": "Der Pflegeplatzmanager ist eine webbasierte, digitale Plattformlösung, die ein gesetzes- und vertragskonformes Entlass-, Aufnahme und Überleitmanagement ermöglicht. Unser Ziel ist es, jeden Patienten eine bedarfsgerechte Versorgung unter Berücksichtigung des Wunsch- und Wahlrechts bieten zu können und alle Akteure auf Augenhöhe zu vernetzen.",
+    "id": 87,
+    "name": "Recare",
+    "url": "https://recareai.com/pflege",
+    "description": "Recare unterstützt Sie dabei, Anfragen aus Krankenhäusern und weiteren Kanälen zentral zu bündeln, automatisch zu strukturieren und schneller zu bearbeiten. Für weniger Abstimmungsaufwand und eine bessere Kapazitätsplanung.",
     "type": "planen",
     "technology": "Dokumentation"
   },
   {
-    "id": 95,
+    "id": 88,
     "name": "Pflegerwohl",
     "url": "https://www.pflegerwohl.de/pflegerwohl-app",
     "description": "Deswegen funktioniert der digitale Austausch so leicht wie bei bekannten Messenger-Diensten. Sogar per Sprachnachricht. Dokumentationen werden einmalig erfasst und sind für jeden Berechtigten zugänglich – genauso wie Übergabeprotokolle.",
@@ -760,15 +704,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 96,
-    "name": "Philips Lifeline",
-    "url": "https://www.lifeline.philips.com/",
-    "description": "Our easy-to-use medical alert systems let you summon any type of help whenever you need it, any time of day or night - even if you can't speak1. All you need to do is press your help button, worn as a wristband or pendant, and a Trained Care Specialist will make sure you quickly get the help you need.",
-    "type": "pflegen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 97,
+    "id": 89,
     "name": "PLANERIO",
     "url": "https://planerio.de/",
     "description": "Die Kombination aus Künstlicher Intelligenz (KI) mit der Erfahrung aus Millionen von Dienstplänen versetzt uns in die Lage, den Dienstplanungsprozess vollständig zu automatisieren. Unser Algorithmus verarbeitet die Komplexität beliebig vieler Planungsvariablen in wenigen Minuten.",
@@ -776,7 +712,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 98,
+    "id": 90,
     "name": "QuartrBack",
     "url": "https://www.develop-group.de/produktsoftware-sensor/senso-innovativ/quartrback",
     "description": "Eine Fördermaßnahme im Rahmen des Förderschwerpunktes \"Pflegeinnovationen für Menschen mit Demenz\". Für mehr Mobilität, Unabhängigkeit und Teilhabe am sozialen Leben mithilfe eines Ortungsgerätes in der Altenpflege",
@@ -784,7 +720,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 99,
+    "id": 91,
     "name": "Quiply",
     "url": "https://insights.quiply.com/blog/die-mitarbeiter-app-in-der-pflege-dynamische-kommunikation-und-das-standort%C3%Bcbergreifend",
     "description": "WhatsApp-Gruppen und Co. war gestern – vertrauen Sie auf eine vielschichtige und Datenschutz-konforme App für Ihre Mitarbeiter, deren Mehrwert für Ihre interne Kommunikation und die Vereinfachung Ihrer Prozesse Sie verblüffen wird.",
@@ -792,7 +728,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 100,
+    "id": 92,
     "name": "Qwiek",
     "url": "https://qwiek.eu/de/up",
     "description": "Das Qwiek.up schafft ein audiovisuelles Erlebnis für Betreute, das sie in ihrer eigenen Welt erreicht. Dies reduziert in vielen Fällen den Betreuungsbedarf der Bewohner. Das Qwiek.up bietet zahlreiche Interventionsmöglichkeiten und unterstützt die Betreuer in den Momenten, die danach verlangen.",
@@ -800,15 +736,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 101,
-    "name": "recare",
-    "url": "https://recaresolutions.com/",
-    "description": "Wir suchen, finden und koordinieren die Kapazitäten für optimal geplante Versorgungspfade. Damit Sie mehr Zeit für Ihre Patienten haben.",
-    "type": "planen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 102,
+    "id": 93,
     "name": "SafeSense 3",
     "url": "https://www.wi-bo.com/en-DE/nursing-care/DigitalSolutions/SafeSense3",
     "description": "SafeSense® 3 consists of a completely contactless, patented sensor pad which is positioned under the mattress and detects the smallest pressure changes in real time. This allows the movement activity of residents or patients to be recorded and the visualised data can be used to draw valuable conclusions about their individual movement profile.",
@@ -816,15 +744,15 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 103,
+    "id": 94,
     "name": "SELBSTANAMNESE",
     "url": "https://www.selbstanamnese.de/",
-    "description": "Im Krankheitsfall werden Ihre potenziell medizinisch relevanten Informationen durch das Fachpersonal erfasst.\nDiese Informationen können Sie im Vorfeld vorbereiten - das spart wertvolle Zeit und Ressourcen.",
+    "description": "Im Krankheitsfall werden Ihre potenziell medizinisch relevanten Informationen durch das Fachpersonal erfasst.\r\nDiese Informationen können Sie im Vorfeld vorbereiten - das spart wertvolle Zeit und Ressourcen.",
     "type": "pflegen",
     "technology": "Kommunikation"
   },
   {
-    "id": 104,
+    "id": 95,
     "name": "SensFloor",
     "url": "https://future-shape.com/system/",
     "description": "SensFloor ist ein großflächiges Sensor Underlay, das unter jedem Bodenbelag installierbar ist – unauffällig und diskret. Personen, die über den Boden gehen erzeugen Signale, die zu einem Empfänger gefunkt werden. Dieser kann Anzahl der Personen, ihre Bewegungsrichtung und Geschwindigkeit berechnen, sowie Stürze erkennen.",
@@ -832,7 +760,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 105,
+    "id": 96,
     "name": "SENSO",
     "url": "https://www.develop-group.de/produktsoftware-senso/senso-innovativ/dynasens/",
     "description": "Ergebnisse des am 31.12.2015 abgeschlossenen Forschungsprojektes wurden in die Pflegedokumentationssoftware SENSO® übernommen. Durch das neuartige Konzept wird es möglich, die auf die Pflegemitarbeiter wirkenden körperlichen und psychischen Belastungen z. B. in der Tourenplanung zu berücksichtigen und individuelle Belastungsgrenzen nicht zu überschreiten – und das ganz ohne zusätzlichen Technikeinsatz.",
@@ -840,7 +768,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 106,
+    "id": 97,
     "name": "SIGUBOX",
     "url": "https://www.sigubox.de/",
     "description": "Monatliche kostenfreie Lieferung von Pflegehilfsmitteln im Wert bis zu 60 EUR – kostenlos, stressfrei. Das ist SIGUBOX, das Pflegepaket für Menschen mit Pflegegrad.",
@@ -848,7 +776,7 @@
     "technology": "Telecare"
   },
   {
-    "id": 107,
+    "id": 98,
     "name": "SIGUDOKS",
     "url": "https://www.sigudoks.de/",
     "description": "SIGUDOKS stellt sicher, dass Sie im Krankheitsfall so versorgt werden, wie Sie es wollen! Das digitale Vorsorge-Set SIGUDOKS gibt Angehörigen und Gesundheitseinrichtungen alle notwendigen Antworten dazu: Informationen zu Ihrer Person, Ärzten, Notfallnummern, Krankengeschichte, Allergien & Unverträglichkeiten, Impfungen, Digitaler Nachlass uvm.",
@@ -856,7 +784,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 108,
+    "id": 99,
     "name": "siilo",
     "url": "https://www.siilo.com/de/",
     "description": "Die intuitive Benutzeroberfläche und das speziell für das Gesundheitswesen entwickelte Design machen Siilo zum bevorzugten Messenger von mehr als 350.000 medizinischen Fachkräften. Sichere Koordination Ihrer Patientenversorgung und anwenderfreundliche Besprechung schwieriger Fälle sind nur einen Klick entfernt.",
@@ -864,7 +792,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 109,
+    "id": 100,
     "name": "Silverfit",
     "url": "https://silverfit.com/de/",
     "description": "SilverFit bietet 3D basierte Trainingsmethoden für die Rehabilitation und Altenpflege an, mit denen ältere Menschen länger unabhängig und mobil bleiben können. Spezielles Angebot für Menschen mit Demenz. Bewegungsgesteuerte Computerplattform mit 3D Kamera.",
@@ -872,7 +800,7 @@
     "technology": "Telecare"
   },
   {
-    "id": 110,
+    "id": 101,
     "name": "simplinic",
     "url": "https://www.simplinic.de/",
     "description": "simplinic.Cloud enthält ein 3D-Raummodell des Krankenhausgebäudes. Dieses wird initial von simplinic-Mitarbeitern während des Rollouts im Map-Editor der Software auf Grundlage von Flurplänen erstellt. Das Raummodell basiert auf Längen- und Breitengraden sowie Bezeichnung und Funktion der Räume. Auf Basis dieser Informationen kann die Software lokalisierte Objekte einem Raum zuordnen.",
@@ -880,7 +808,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 111,
+    "id": 102,
     "name": "Sturzmelder",
     "url": "http://www.sturzmelder.de/#:~:text=Sie%20tragen%20den%20Sturzmelder%20immer%20bei%20sich.%20Wenn,und%20sendet%20gleichzeitig%20eine%20Textnachricht%20an%20alle%20Nummern.",
     "description": "Der Sturzmelder schenkt Senioren und Menschen, die manchmal auf Hilfe angewiesen sind, Unabhängigkeit und Sicherheit.Durch einen einfachen Knopfdruck auf den Sturzmelder kann jederzeit Hilfe organisiert werden, ebenso ist eine automatische Rufauslösung bei Unfällen oder Stürzen möglich",
@@ -888,7 +816,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 112,
+    "id": 103,
     "name": "Super Nurse",
     "url": "https://supernurse.de/",
     "description": "Auf Dich und Dein Team warten mehr als 5.500 spannende Fragen zu über 41 Fachthemen. Bring Dich und Dein Team spielerisch immer auf den aktuellsten Stand der Pflegewissenschaft.",
@@ -896,7 +824,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 113,
+    "id": 104,
     "name": "TabTime",
     "url": "https://de.tabtime.com/products/tabtime-4",
     "description": "Das neue TabTime 4 fasst bis zu 28 Aspirin-Tabletten in jedem der 4 Fächer, was einer Kapazität von über 100 Tabletten pro Tag entspricht! TabTime 4 bietet außerdem zwei Alarme, eine blinkende rote LED und einen Audioalarm mit einer wirklich guten Lautstärke!",
@@ -904,7 +832,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 114,
+    "id": 105,
     "name": "Tante Laura",
     "url": "https://www.tante-laura.com/",
     "description": "Tante Laura ist eine digitale Besuchsbrücke der Familie zu ihren einsamen Senioren. Sie schafft dauerhaften Kontakt zu den lieben Alten, die leider nicht mehr telefonieren können oder sich in der digitalen Welt des WhatApps etc. nicht mehr zurecht finden. Die Angehörigen füllen Stunden eines permanenten Wochen-Sendeplans mit schönen, vertrauten Botschaften (Fotos, Musik, Kurzvideos, Text-Grüsse), die bei den Betroffenen auf einem Tablet angezeigt werden.",
@@ -912,23 +840,15 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 115,
-    "name": "TAVLA",
-    "url": "https://www.tavla.de/",
-    "description": "TAVLA entwickelt interaktive Lösungen die besonders einfach per Touch & Sprache bedient werden können. Die über alle Anwendungen hinweg gleichartige Interaktion macht die Nutzung spielend einfach. Dank der übersichtlichen und multimodalen Interaktion können auch Personen mit Einschränkungen ohne fremde Hilfe die Anwendungen nutzen.",
-    "type": "pflegen",
-    "technology": "Kommunikation"
-  },
-  {
-    "id": 116,
+    "id": 106,
     "name": "Thieme Coach",
-    "url": "https://www.thieme.de/de/thieme-telecare/thieme-coach.htm",
-    "description": "Mit der smarten Gesundheitsplattform von Thieme TeleCare werden Patienten in ihrer individuellen Erkrankungssituation unterstützt. Die dazugehörige App Thieme Coach bildet die digitale Oberfläche, mit der Patienten ihre Gesundheit managen. Ein persönlicher Coach kann Patienten zudem über die Thieme Coach App digital und telefonisch begleiten.",
+    "url": "https://gesundheit.thieme.de/thieme-telecoach-app/home",
+    "description": "Die eigene Gesundheit im Griff haben. Dazu gehört, seine persönliche Gesundheitssituation zu verstehen und den Umgang damit zu erlernen. Mit dem Thieme TeleCoach hat man eine App, die genau dabei hilft und zur individuellen Situation passt.\r\n\r\nDie Thieme TeleCoach-App steht als Gesundheitsbegleiter im Alltag zur Verfügung und unterstützt dabei das Wohlbefinden und die Lebensqualität zu verbessern.",
     "type": "wissen",
     "technology": "Telecare"
   },
   {
-    "id": 117,
+    "id": 107,
     "name": "tigerconnect",
     "url": "https://tigerconnect.com/",
     "description": "TigerConnect solutions put communication, data, and alerts at your fingertips – mobile, reliable, and secure",
@@ -936,15 +856,15 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 118,
-    "name": "Töchter & Söhne",
-    "url": "https://toechtersoehne.com/",
-    "description": "Töchter & Söhne möchte hilfs- und pflegebedürftige Menschen bestmöglich im Pflegealltag unterstützen. Dafür entwickeln und betreiben wir qualitätsgesicherte E-Health-Lösungen für Betroffene sowie ehrenamtlich und professionell Pflegende.",
+    "id": 108,
+    "name": "Curendo",
+    "url": "https://curendo.de/de/",
+    "description": "Alltagsnah und leicht verständlich\r\nUnsere Kurse vermitteln Pflegewissen, das im Alltag funktioniert. Keine Theorie ohne Bezug. Durch interaktive Übungen und visuelle Hilfen wird das Lernen leichter. Und das Wissen bleibt im Kopf.",
     "type": "wissen",
     "technology": "Kommunikation"
   },
   {
-    "id": 119,
+    "id": 109,
     "name": "Tovertafel",
     "url": "https://www.tover.care/de/",
     "description": "Pflegetechnologie, die es Pflegekräften ermöglicht, Ihre Bewohner und Tagesgäste spielerisch zu betreuen. Tovertafel ist ein Click-and-Ready-System, eine Art Beamer mit Videospielen, die auf einen Tisch projiziert werden. Fördert Lebensqualität und Bewegung bei kognitiven beeinträchtigten Menschen.",
@@ -952,7 +872,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 120,
+    "id": 110,
     "name": "überblick",
     "url": "https://uberblick.io/demo/",
     "description": "Wir entlasten Menschen in der Pflege mit unserer einfachen Lösung für Kommunikation & Koordination. Überblick ist komplementär zur Pflegesoftware und deckt Themen ab, die bisher per Telefon, WhatsApp, Zettel oder im Team-Meeting kommuniziert wurden. Dafür haben wir eine übersichtliche Webversion für die Kolleg*innen am Schreibtisch und ganz einfache mobile Apps für die Kolleg*innen unterwegs entwickelt.",
@@ -960,7 +880,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 121,
+    "id": 111,
     "name": "VAR",
     "url": "https://www.varhealthcare.de/",
     "description": "VAR Healthcare liefert evidenzbasierte Handlungsempfehlungen mit pädagogischen Illustrationen, sowie Zusammenfassungen neuester Forschung, Wissenstests und einen praktischen Rechner.",
@@ -968,15 +888,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 122,
-    "name": "Vemotion System",
-    "url": "https://www.habel-medizintechnik.at/klinik/geraeteprogramm/robotergestuetzte-fruehmobilisierung/vemo-system",
-    "description": "Studien und klinische Erfahrungen belegen: Frühmobilisierung für Intensivpatienten kann den Genesungsverlauf beschleunigen und zur Wiedererlangung der Selbstständigkeit beitragen. Das innovative Vemotion System ist ein robotisch assistiertes System für die Frühmobilisierung von Intensivpatienten.",
-    "type": "pflegen",
-    "technology": "Robotik"
-  },
-  {
-    "id": 123,
+    "id": 112,
     "name": "Vielfalt Pflegen",
     "url": "https://www.vielfalt-pflegen.info/",
     "description": "Wie können professionell Pflegende und das Pflegemanagement auf die Bedürfnisse von Menschen mit Migrationsgeschichte eingehen? Vielfalt Pflegen möchte für dieses Thema sensibilisieren, Vorurteile abbauen und Perspektiven aufzeigen. Die Fortbildung stärkt transkulturelle Kompetenzen im Pflegealltag und trägt dazu bei, kulturelle Unterschiede gezielt und angemessen zu berücksichtigen.",
@@ -984,7 +896,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 124,
+    "id": 113,
     "name": "VitaDock+",
     "url": "https://www.medisana.de/VitaDock-App-2-0.html",
     "description": "Mit der VitaDock+ App können alle Gesundheits- und Vitaldaten immer und überall im Blick gehalten werden. Als Nutzer kann man jeden Wert mit Kommentaren ergänzen und sich zusätzlich Verläufe und Auswertungen darstellen lassen. So wird Gesundheitsmanagement noch individueller.",
@@ -992,7 +904,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 125,
+    "id": 114,
     "name": "Vitakt",
     "url": "https://www.vitakt.com/de/vitakt-website/vitakt/das-vitakt-system/",
     "description": "Dafür haben wir ein Hausnotrufsystem entwickelt, das einfach in der Bedienung ist und auf Knopfdruck Notrufe zuverlässig weiterleitet. Diese Notrufe führen nur selten zum Einsatz eines Rettungswagens, häufiger wird Unterstützung durch Angehörige, Nachbarn oder Pflegedienste (Hausnotrufbereitschaft) angefordert.",
@@ -1000,7 +912,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 126,
+    "id": 115,
     "name": "Vmobil",
     "url": "https://www.advanova.de/",
     "description": "VMobil ist die erste elektronische Lösung, die eine in Krankenhäusern und anderen Einrichtungen zur Visite, Dokumentation und Information über den Behandlungsstatus genutzte papiergebundene Patientenkurve komplett ablöst. Dadurch ermöglicht VMobil die elektronische Dokumentation aller ärztlichen und pflegerischen Leistungen – insbesondere auch auf mobilen Endgeräten wie z. B. Tablets.",
@@ -1008,7 +920,7 @@
     "technology": "Dokumentation"
   },
   {
-    "id": 127,
+    "id": 116,
     "name": "Wear&Care",
     "url": "https://wearandcare.com/de/start-2/",
     "description": "Wear&Care optimiert die Inkontinenzversorgung mit einer intelligenten und einfach zu handhabenden Sensortechnologie. Der Sensor erkennt zuverlässig, wann das Inkontinenzmaterial voll ist, und unterstützt sowohl Pflegebedürftige als auch Pflegekräfte dabei, den Alltag effizienter zu gestalten.",
@@ -1016,7 +928,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 128,
+    "id": 117,
     "name": "ManagingCare Digital",
     "url": "https://mcd.managingcare.de/",
     "description": "ManagingCare Digital (MCD) ist ein digitales Ökosystem, in dem durch die Vernetzung und Integration von verschiedenen Applikationen und Diensten in Verbindung mit analogen Lösungen eine ganzheitliche Digitalisierung der Pflege und Betreuung möglich wird. Funktionen im Webportal und Schnittstellen zu analogen und digitalen Lösungen werden stetig erweitert und neue Features, Dienste und Schnittstellen zu Sensoren-Systemen hinzugefügt. Die Anbindung an MCD mit seiner Forschungsplattform und seinem Forschungsnetzwerk hält Sie immer am Puls der Zeit.",
@@ -1024,7 +936,7 @@
     "technology": "Plattform"
   },
   {
-    "id": 129,
+    "id": 118,
     "name": "Medikit",
     "url": "https://medikit.net/de/",
     "description": "medikit für die Pflege, Die Mitarbeiter-App für eine vereinfachte interne Kommunikation in der Pflege. medikit ermöglicht eine einfache interne Kommunikation und Zusammenarbeit für Teams in der Pflege. Tägliche Arbeitsprozesse und Standards können digital und transparent abgebildet werden. Die Teams können sich dadurch nicht nur besser organisieren, auch die Qualität der Betreuung wird verbessert.",
@@ -1032,7 +944,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 130,
+    "id": 119,
     "name": "VIVAIcare",
     "url": "https://vivai.care/",
     "description": "VIVAIcare ist ein digitales Assistenzsystem. Es besteht aus dem Basismodul Vivi (Datensammler für Sensor-daten und Sprachassistenz) und kann je nach erforderlicher Konfiguration mit unterschiedlichen Sensoren verbunden werden, z. B. Sturzsensoren. Das Produkt VIVAIcare hat, abhängig von der Konfiguration, folgende Funktionen: Sturzerkennung mit Alarmierungskette, Datum, Uhrzeit, Kalender, Terminerinnerung, Trinkerinnerung, Medikamentenerinnerung, Eingabe der Blutruckwerte mit Verlauf Eingabe des Gewichts mit Verlauf",
@@ -1040,7 +952,7 @@
     "technology": "Assistenzsystem"
   },
   {
-    "id": 131,
+    "id": 120,
     "name": "Aktivtisch - Der intuitive Aktivitätstisch für die Betreuung",
     "url": "https://www.aktivtisch.de/?gad_source=1&gad_campaignid=21436135430&gclid=EAIaIQobChMInrWoxv_tjQMVpoCDBx31wQDtEAAYASAAEgLkNvD_BwE",
     "description": "Der intuitive Aktivtisch für Senioren, Menschen mit Handicap und für den Einsatz in der Ergotherapie.",
@@ -1048,7 +960,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 132,
+    "id": 121,
     "name": "De BeleefTV - De BeleefTV",
     "url": "https://debeleeftv.de/",
     "description": "De BeleefTV ist ein digitaler und mobiler Aktivitätstisch, speziell entwickelt für Menschen mit Demenz. Stimulierende Spiele, das Hören von Musik und das Schwelgen in Erinnerungen bringen die Bewohner von Pflegeeinrichtungen näher zusammen.",
@@ -1056,7 +968,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 133,
+    "id": 122,
     "name": "ichó – Therapie und Förderung für Senioren & Kinder – icho systems",
     "url": "https://icho-systems.de/",
     "description": "Menschen mit Demenz oder Schlaganfall benötigen Förderung, die wirksam, abwechslungsreich und zugänglich ist. Der ichó Ball bietet all diese Eigenschaften in einem Therapiegerät.",
@@ -1064,7 +976,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 134,
+    "id": 123,
     "name": "Virtuelle Veranstaltungen | ViVerA",
     "url": "https://www.viveras.de/virtuelle-angebote",
     "description": "Digitale Angebote von Freiwilligen für Gruppen & Bewohnerinnen und Bewohner von Altenpflegeeinrichtungen",
@@ -1072,7 +984,7 @@
     "technology": "Plattform"
   },
   {
-    "id": 135,
+    "id": 124,
     "name": "inmu – relaxing music for body, mind and senses - inmutouch.com",
     "url": "https://inmutouch.com/",
     "description": "We wanted to create an electronic tool that enables you to play enchanting music without any prior experience. An inclusive tool that weak and cognitively challenged people can use without any difficulties.",
@@ -1080,7 +992,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 136,
+    "id": 125,
     "name": "VRalive - Extended Reality for Digital Health",
     "url": "https://vralive.de/",
     "description": "Mithilfe des VRalive Systems können sowohl 360° Videos als auch XR-Anwendungen angesteuert werden. Die Betreuungsperson hat die volle Kontrolle über relevante Brilleneinstellungen (z.B. Lautstärke) und kann mithilfe der Livestream-Funktion in die Brillen reinschauen.",
@@ -1088,7 +1000,7 @@
     "technology": "Kommunikation"
   },
   {
-    "id": 137,
+    "id": 126,
     "name": "VR-Mondo | Esperanto Stacio",
     "url": "https://www.esperantostacio.com/vr-mondo",
     "description": "Lerni nutzt immersives Lernen, um Fachkräften in Medizin und Pflege, die Deutsch lernen, die Fachsprache schneller und intensiver zu vermitteln. So leisten wir einen Beitrag zur Integration von Fachkräften in den Arbeitsmarkt. Als gemeinwohlorientiertes Projekt arbeiten wir daran, die Methoden mit Bildungsträgern und anderen Stakeholdern in Brandenburg im Jahr 2025/26 weiter zu verbreiten.",
