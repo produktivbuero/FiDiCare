@@ -194,7 +194,7 @@
   {
     "id": 25,
     "name": "Casuu",
-    "url": "casuu.com",
+    "url": "https://casuu.com",
     "description": "Ihre Mitarbeiter lernen mit casuu nicht nur Vokabeln, sondern üben echte Gespräche – mit KI-generierten Patient:innen, Kolleg:innen und Angehörigen. Von \"Patientendeutsch\" über Klinikjargon bis Fachsprache – alltagstypische Dialoge führen zu sprachlicher Sicherheit auf Station.",
     "type": "wissen",
     "technology": "Kommunikation"
